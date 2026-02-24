@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Desarrollador%20FullStack&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20Desarrollador%20FullStack&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
 <p align="center">
@@ -15,10 +15,10 @@
   
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯 Junior FullStack Developer                               ║
-║  🐧 Entusiasta de Linux & SysAdmin                           ║
-║  🔐 Apasionado por la Ciberseguridad                         ║
-║  ⚡ Siempre aprendiendo algo nuevo                           ║
+║  🎯 Junior FullStack Developer                              ║
+║  🐧 Entusiasta de Linux y sistemas personalizados           ║
+║  🔐 Explorando el mundo de la Ciberseguridad                ║
+║  ⚡ Siempre aprendiendo algo nuevo                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -32,15 +32,15 @@
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind,bootstrap&perline=8" />
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,docker&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,postgres,mysql&perline=8" />
 
-**Linux & Security**
+**Tools & Others**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,parrot,nginx,git,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx&perline=5" />
 
 </div>
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 🐧 Linux & Security
+### 🐧 Linux & Sistemas
 
 <div align="center">
 
@@ -76,21 +76,37 @@
           \ \ ╚███╔███╔╝██║  ██║███████╗███████╗███████╗██║     
            \_\ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝     
                                                           
-  ██████╗ ███████╗██╗   ██╗    ██╗    ██╗ █████╗ ██╗  ██╗███████╗
-  ██╔══██╗██╔════╝██║   ██║    ██║    ██║██╔══██╗██║  ██║██╔════╝
-  ██║  ██║█████╗  ██║   ██║    ██║ █╗ ██║███████║███████║█████╗  
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║███╗██║██╔══██║██╔══██║██╔══╝  
-  ██████╔╝███████╗ ╚████╔╝     ╚███╔███╔╝██║  ██║██║  ██║███████╗
-  ╚═════╝ ╚══════╝  ╚═══╝       ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+  ███████╗ █████╗ ██╗      █████╗ ███╗   ██╗██╗   ██╗██╗  ██╗
+  ██╔════╝██╔══██╗██║     ██╔══██╗████╗  ██║██║   ██║╚██╗██╔╝
+  █████╗  ███████║██║     ███████║██╔██╗ ██║██║   ██║ ╚███╔╝ 
+  ██╔══╝  ██╔══██║██║     ██╔══██║██║╚██╗██║██║   ██║ ██╔██╗ 
+  ██║     ██║  ██║███████╗██║  ██║██║ ╚████║╚██████╔╝██╔╝ ██╗
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
 </div>
 
-| 🐧 Distros que uso | 🛡️ Security | ⚙️ Tools |
+| 💻 Lo que hago con Linux | 🖥️ Terminal | 🔧 Sistemas |
 |---|---|---|
-| Ubuntu/Debian | Kali Linux | Wireshark |
-| Arch Linux | Metasploit | Nmap |
-| Fedora | Burp Suite | Docker |
+| Montar mis propios sistemas personalizados | Me manejo bien | Entiendo cómo funciona |
+| Configurar entornos de desarrollo | Comodidad total | Aprendizaje continuo |
+| Experimentar con distros | Scripting bash | Docker & Nginx |
+
+---
+
+### 🔐 Ciberseguridad
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🟡 currently learning / explorando / capacitándome           ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+*Interesado en el mundo de la seguridad informática, actualmente aprendiendo los fundamentos.*
 
 ---
 
@@ -98,9 +114,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enriqueejeda)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enriqueejeda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oxlykos@gmail.com)
 
 </div>
 
@@ -110,7 +126,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ⭐ Si te gusta lo que hago, no olvides starred mis repos  │
+│  ⭐ Si te gusta lo que hago, no olvides starred mis repos   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
