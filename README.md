@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=0xLykos&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/0xLykos?label=Followers&style=social" alt="GitHub followers"/>
 </p>
 
 ---
@@ -15,10 +15,10 @@
   
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯 Junior FullStack Developer                              ║
+║  🎯 Junior FullStack Developer                               ║
 ║  🐧 Entusiasta de Linux & SysAdmin                           ║
 ║  🔐 Apasionado por la Ciberseguridad                         ║
-║  ⚡ Siempre aprendiendo algo nuevo                            ║
+║  ⚡ Siempre aprendiendo algo nuevo                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -36,11 +36,11 @@
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,express,fastapi,postgres,docker&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,docker&perline=7" />
 
 **Linux & Security**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,nginx,git,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,bash,parrot,nginx,git,docker&perline=6" />
 
 </div>
 
@@ -49,8 +49,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xLykos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLykos&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Languages"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 ### 🔥 Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xLykos&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
 </div>
 
 ---
